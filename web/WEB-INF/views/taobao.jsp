@@ -13,6 +13,9 @@
 <body>
 <h1>淘宝首页</h1>
 <hr>
-
+<p>
+    当前登录的用户 <span>admin</span>
+    <a href="${logoutURL}">注销</a>
+</p>
 </body>
 </html>
